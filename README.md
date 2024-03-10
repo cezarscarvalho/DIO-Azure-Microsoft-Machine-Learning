@@ -65,9 +65,34 @@ Ao lado esquerdo clique em Pontos de Extremidade, prever-alugueis, Testar
 ...
 
 ## Para o teste foi utilizado o json abaixo:
+```yaml
+ {
+   "Inputs": { 
+     "data": [
+       {
+         "day": 1,
+         "mnth": 1,   
+         "year": 2022,
+         "season": 2,
+         "holiday": 0,
+         "weekday": 1,
+         "workingday": 1,
+         "weathersit": 2, 
+         "temp": 0.3, 
+         "atemp": 0.3,
+         "hum": 0.3,
+         "windspeed": 0.3 
+       }
+     ]    
+   },   
+   "GlobalParameters": 1.0
+ }
+ 
 
 # O Resultado foi o discriminado abaixo
-![Alt text](<Resultado Json.png>)
+
+![Resultado Json](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/c2daac3a-318c-4c4d-8845-33ee97243c10)
+
  
 
 
