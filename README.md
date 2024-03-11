@@ -39,10 +39,9 @@ Selecione "alugueldebicicletas" para continuar a enviar o ML Automatizado
 ![Alt text](<Aluguel de Bicicletas.png>)
 ![Alt text](<Envie ML.png>)
 Expanda as Configurações Adicionais
-![Alt text](<Config Add.png>)
+![Alt text](<Config Add-1.png>)
 ![Alt text](<Mais Configurações Add.png>)
-Expanda a Sessão Limites
-![Alt text](<Sessão Limites.png>)
+Expanda a Sessão Limites![Alt text](<Sessão Limites.png>)
 ![Alt text](<Limites 1.png>)
 ![Alt text](<Limites 2.png>)
 ![Alt text](Computa%C3%A7%C3%A3o.png)
@@ -92,4 +91,4 @@ Ao lado esquerdo clique em Pontos de Extremidade, prever-alugueis, Testar
 
 # O Resultado foi o discriminado abaixo
 
-![Resultado Json](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/c2daac3a-318c-4c4d-8845-33ee97243c10)
+![Alt text](<Resultado Json.png>)
