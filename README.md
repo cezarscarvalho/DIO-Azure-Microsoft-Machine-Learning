@@ -45,7 +45,7 @@ Expanda as Configurações Adicionais
 ![Mais Configurações Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/0eda756f-b8c1-4901-a849-65f7e9e7621b)
 
 Expanda a Sessão Limites
-![Alt text](<Sessão Limites.png>)
+
 ![Sessão Limites](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ed3e8b11-b7ea-45c7-8b33-0d3ec0264260)
 ![Limites 2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/173d9e40-eba1-4f9f-a495-61e34f634d56)
 ![Computação](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2b954421-1550-44db-9326-823960d59f7a)
