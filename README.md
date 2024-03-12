@@ -49,13 +49,16 @@ Expanda a Sessão Limites
 ![Sessão Limites](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ed3e8b11-b7ea-45c7-8b33-0d3ec0264260)
 ![Limites 2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/173d9e40-eba1-4f9f-a495-61e34f634d56)
 ![Computação](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2b954421-1550-44db-9326-823960d59f7a)
+
 Envie o trabalho de treinamento
 ![Examinar](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d6ede542-ec4b-43e8-b7eb-ea38272548d8)
+
 A Execução demorará alguns minutos para a compilação dos dados
 ![Em execução](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/62336e9f-5b64-44ce-bc99-0cfba00822d5)
 Ao finalizar teremos a informação de Status concluído
 ![Finalização](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/9a89411a-7e10-45d9-ba7b-893f76138955)
 ...
+
 Pipeline com as etapas do processo e os testes realizados
 ![image-2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ba072fdc-58ac-43f5-996e-20274309c27b)
 # Implementação do Modelo
