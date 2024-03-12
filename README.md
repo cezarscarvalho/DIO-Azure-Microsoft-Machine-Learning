@@ -27,10 +27,10 @@ Clique em Avançar
 ![Avançar ML Automatizado](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/440ff26d-0915-4f9b-93ce-1774c55144ab)
 ## O tipo da tarefa será Regressão (Para prever valores numéricos contínuos)
 ![Tipo de Dados Regressão](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/abeddb59-889d-4946-b9b5-aadd593821df)
-Clique em Avançar para criar o tipo de dados
 ![Criação de Dados](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/8718c095-b2d8-413b-a660-a75dbfc8a43c)
 ![Criar Ativo de Dados - Tipo de Dados](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/856d13f8-f542-41f3-b448-f7005bf99601)
 ![Arquivos Web](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2c0f5302-1d6a-4c90-b51b-d9b51c875449)
+
 As fontes serão fornecidas da WEB
 ![URL](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/86751681-ea4c-411d-9fd5-454bdfe6c7f7)
 ![Configurações](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d1ca4eb5-0f9f-40d0-bc87-c8870f76cf5a)
