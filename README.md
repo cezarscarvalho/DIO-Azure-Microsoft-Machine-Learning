@@ -35,13 +35,17 @@ As fontes serão fornecidas da WEB
 ![URL](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/86751681-ea4c-411d-9fd5-454bdfe6c7f7)
 ![Configurações](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d1ca4eb5-0f9f-40d0-bc87-c8870f76cf5a)
 ![Path](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d5d6faa7-c3b3-4a12-aff3-22ddafa63c5f)
+
 Selecione "alugueldebicicletas" para continuar a enviar o ML Automatizado
 ![Aluguel de Bicicletas](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/a57b688e-998f-4ccb-874d-b58a5d94d85f)
 ![Envie ML](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/870a623d-e72b-4c6d-8b5c-b02cedf4aecc)
+
 Expanda as Configurações Adicionais
 ![Config Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/884a258d-20fb-49bb-a1e0-bd0bfd85da89)
 ![Mais Configurações Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/0eda756f-b8c1-4901-a849-65f7e9e7621b)
-Expanda a Sessão Limites![Alt text](<Sessão Limites.png>)
+
+Expanda a Sessão Limites
+![Alt text](<Sessão Limites.png>)
 ![Sessão Limites](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ed3e8b11-b7ea-45c7-8b33-0d3ec0264260)
 ![Limites 2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/173d9e40-eba1-4f9f-a495-61e34f634d56)
 ![Computação](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2b954421-1550-44db-9326-823960d59f7a)
