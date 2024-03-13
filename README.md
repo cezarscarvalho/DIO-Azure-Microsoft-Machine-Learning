@@ -13,7 +13,7 @@ Caso, já possua um Workspace criado poderá utilizá-lo e acessar o [Launch Stu
 Os Passos a seguir nos permitirão criar um Modelo de Previsão com seus devidos pontos de extremidade configurados. (❁´◡`❁)
 
 Criaremos o Aprendizado de Máquina (Machine Learning) para a previsão do aluguel de bicicletas.    
-![image-1](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/05f91a3b-77e5-483e-93a7-19c85a0dc605)
+![image-1](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/412fafe9-9dc4-4e63-ab87-88ba72620ffc)
 
 
 
@@ -21,54 +21,59 @@ Criaremos o Aprendizado de Máquina (Machine Learning) para a previsão do alugu
 
 No Launch Studio, nas diversas opções ao lado esquerdo selecionar  "ML AUTOMATIZADO" 
 
-![ML Automatizado](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/1c06337e-fba4-4087-8405-51d6a02110dd)
+![ML Automatizado](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/a9e60236-0cbb-4cdd-b5d1-da1da14cdc4a)
 Clique em "+ Novo trabalho de ML Automatizado"
-![+ ML Automatizado](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/561be846-b229-4a83-9d4b-a1c5329cbb44)
+![+ ML Automatizado](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/a88ca61c-dc2e-49f8-9cbe-d47a14c5788f)
 Clique em Avançar
-![Avançar ML Automatizado](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/440ff26d-0915-4f9b-93ce-1774c55144ab)
+![Avançar ML Automatizado](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/c40f590c-b448-4bb2-b483-b02fba23b8f3)
 ## O tipo da tarefa será Regressão (Para prever valores numéricos contínuos)
-![Tipo de Dados Regressão](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/abeddb59-889d-4946-b9b5-aadd593821df)
-![Criação de Dados](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/8718c095-b2d8-413b-a660-a75dbfc8a43c)
-![Criar Ativo de Dados - Tipo de Dados](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/856d13f8-f542-41f3-b448-f7005bf99601)
-![Arquivos Web](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2c0f5302-1d6a-4c90-b51b-d9b51c875449)
+![Tipo de Dados Regressão](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/a79302be-76c5-4f78-8479-a34a02e2d934)
+![Criação de Dados](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/52d1ef05-bf1b-4432-95fd-abbd28ab986b)
+![Criar Ativo de Dados - Tipo de Dados](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/585043ac-4994-4928-9ab9-72633a5a9e49)
+![Arquivos Web](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/add29ab6-83f1-4edb-ae7d-57a54087283b)
 
 As fontes serão fornecidas da WEB
-![URL](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/86751681-ea4c-411d-9fd5-454bdfe6c7f7)
-![Configurações](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d1ca4eb5-0f9f-40d0-bc87-c8870f76cf5a)
-![Path](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d5d6faa7-c3b3-4a12-aff3-22ddafa63c5f)
+![URL](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/d35faf4d-e650-4065-8f10-6734fabf7cbe)
+
+
+![Configurações](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/a97e49a3-42d8-41b3-b97e-72d4a384a235)
+![Path](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/b2279cb5-feba-45fa-981f-3b4922700599)
 
 Selecione "alugueldebicicletas" para continuar a enviar o ML Automatizado
-![Aluguel de Bicicletas](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/a57b688e-998f-4ccb-874d-b58a5d94d85f)
-![Envie ML](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/870a623d-e72b-4c6d-8b5c-b02cedf4aecc)
+![Aluguel de Bicicletas](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/b9364601-526e-482e-bc0a-ccda737121d7)
+![Envie ML](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/0389d91b-4ded-4510-864a-f070fb085b2d)
 
 Expanda as Configurações Adicionais
-![Config Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/884a258d-20fb-49bb-a1e0-bd0bfd85da89)
-![Mais Configurações Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/0eda756f-b8c1-4901-a849-65f7e9e7621b)
+![Config Add](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/670b4a47-717c-4575-90a4-8b2b1c236ddd)
+![Mais Configurações Add](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/f41f34a2-aea2-46e3-ab6e-b78e21e05f4a)
+
 
 Expanda a Sessão Limites
 
-![Sessão Limites](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ed3e8b11-b7ea-45c7-8b33-0d3ec0264260)
-![Limites 2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/173d9e40-eba1-4f9f-a495-61e34f634d56)
-![Computação](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2b954421-1550-44db-9326-823960d59f7a)
+![Sessão Limites](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/9bde8738-9b66-45e8-9c66-36410cd7cd84)
+![Limites 2](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/b6f57fb9-7b8b-4954-be40-5d45ceb384f1)
+![Computação](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/2dda7352-c34e-4423-93e7-7c149e0db3f6)
+
 
 Envie o trabalho de treinamento
-![Examinar](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d6ede542-ec4b-43e8-b7eb-ea38272548d8)
+![Examinar](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/06e1ac29-b200-4f9b-933c-10738db325d8)
 
 A Execução demorará alguns minutos para a compilação dos dados
-![Em execução](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/62336e9f-5b64-44ce-bc99-0cfba00822d5)
+![Em execução-1](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/a907a74a-9192-4b4a-841c-b024e21b940e)
 Ao finalizar teremos a informação de Status concluído
-![Finalização](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/9a89411a-7e10-45d9-ba7b-893f76138955)
+![Finalização](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/60f6cc01-dc55-4a29-8709-cb9e454d113d)
 ...
 
 Pipeline com as etapas do processo e os testes realizados
-![image-2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ba072fdc-58ac-43f5-996e-20274309c27b)
+![image-2](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/226dc15b-90be-41a8-a485-71b27c4f0dad)
 # Implementação do Modelo
-![Exito no modelo](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d3757581-6ab3-4cdc-b712-bb171b7d3268)
+![Exito no modelo](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/e2099a98-2040-4624-9a81-b6dd5f76d335)
 # Teste do Modelo
 
-Ao lado esquerdo clique em Pontos de Extremidade, prever-alugueis, Testar
-![Pontos de extremidade](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/df282152-4f27-4d2e-a8ee-2e9c0ee9c476)
-![Testar](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/156e0fde-4b91-4d1f-9cd1-f55397989602)
+Ao lado esquerdo clique em Pontos de Extremidade, prever-alugueis
+![Pontos de extremidade](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/7b7bc0c3-ee54-4d73-a0ef-3eefabc51181)
+Testar
+![Testar](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/939625ae-208e-4166-8bd2-fa29a14d91fc)
 ...
 
 ## Para o teste foi utilizado o json abaixo:
