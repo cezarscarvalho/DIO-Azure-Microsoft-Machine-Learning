@@ -27,31 +27,38 @@ Clique em Avançar
 ![Avançar ML Automatizado](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/440ff26d-0915-4f9b-93ce-1774c55144ab)
 ## O tipo da tarefa será Regressão (Para prever valores numéricos contínuos)
 ![Tipo de Dados Regressão](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/abeddb59-889d-4946-b9b5-aadd593821df)
-Clique em Avançar para criar o tipo de dados
 ![Criação de Dados](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/8718c095-b2d8-413b-a660-a75dbfc8a43c)
 ![Criar Ativo de Dados - Tipo de Dados](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/856d13f8-f542-41f3-b448-f7005bf99601)
 ![Arquivos Web](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2c0f5302-1d6a-4c90-b51b-d9b51c875449)
+
 As fontes serão fornecidas da WEB
 ![URL](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/86751681-ea4c-411d-9fd5-454bdfe6c7f7)
 ![Configurações](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d1ca4eb5-0f9f-40d0-bc87-c8870f76cf5a)
 ![Path](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d5d6faa7-c3b3-4a12-aff3-22ddafa63c5f)
+
 Selecione "alugueldebicicletas" para continuar a enviar o ML Automatizado
 ![Aluguel de Bicicletas](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/a57b688e-998f-4ccb-874d-b58a5d94d85f)
 ![Envie ML](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/870a623d-e72b-4c6d-8b5c-b02cedf4aecc)
+
 Expanda as Configurações Adicionais
 ![Config Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/884a258d-20fb-49bb-a1e0-bd0bfd85da89)
 ![Mais Configurações Add](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/0eda756f-b8c1-4901-a849-65f7e9e7621b)
-Expanda a Sessão Limites![Alt text](<Sessão Limites.png>)
+
+Expanda a Sessão Limites
+
 ![Sessão Limites](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ed3e8b11-b7ea-45c7-8b33-0d3ec0264260)
 ![Limites 2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/173d9e40-eba1-4f9f-a495-61e34f634d56)
 ![Computação](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/2b954421-1550-44db-9326-823960d59f7a)
+
 Envie o trabalho de treinamento
 ![Examinar](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/d6ede542-ec4b-43e8-b7eb-ea38272548d8)
+
 A Execução demorará alguns minutos para a compilação dos dados
 ![Em execução](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/62336e9f-5b64-44ce-bc99-0cfba00822d5)
 Ao finalizar teremos a informação de Status concluído
 ![Finalização](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/9a89411a-7e10-45d9-ba7b-893f76138955)
 ...
+
 Pipeline com as etapas do processo e os testes realizados
 ![image-2](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/ba072fdc-58ac-43f5-996e-20274309c27b)
 # Implementação do Modelo
