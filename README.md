@@ -1,4 +1,5 @@
-![image](https://github.com/cezarscarvalho/Fotos-Projetos-Azure/assets/158849910/5170a2e1-2d49-4d74-bd3f-5c68d87412f3)
+![image](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/721a73fe-865b-4416-a2cf-f5ef7a9a3eff)
+
 
 # Passo a passo de um modelo de previsão e a configuração de seus pontos de extremidade:
 
